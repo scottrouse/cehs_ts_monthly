@@ -64,7 +64,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a01',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -134,7 +134,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a02',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -204,7 +204,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a03',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -274,7 +274,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a04',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -344,7 +344,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a05',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -414,7 +414,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a06',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -484,7 +484,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a07',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -554,7 +554,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a08',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -624,7 +624,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a09',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -694,7 +694,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a10',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -764,7 +764,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a11',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -834,7 +834,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a12',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -904,7 +904,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a13',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -974,7 +974,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a14',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1044,7 +1044,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a15',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1114,7 +1114,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a16',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1184,7 +1184,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a17',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1254,7 +1254,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a18',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1324,7 +1324,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a19',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1394,7 +1394,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a20',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1464,7 +1464,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a21',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1534,7 +1534,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a22',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1604,7 +1604,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a23',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1674,7 +1674,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a24',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1744,7 +1744,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a25',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1814,7 +1814,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a26',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1884,7 +1884,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a27',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -1954,7 +1954,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a28',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2024,7 +2024,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a29',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2094,7 +2094,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'a30',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2471,7 +2471,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r01',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2541,7 +2541,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r02',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2611,7 +2611,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r03',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2681,7 +2681,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r04',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2751,7 +2751,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r05',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2821,7 +2821,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r06',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2891,7 +2891,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r07',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -2961,7 +2961,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r08',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3031,7 +3031,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r09',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3101,7 +3101,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r10',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3171,7 +3171,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r11',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3241,7 +3241,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r12',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3311,7 +3311,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r13',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3381,7 +3381,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r14',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3451,7 +3451,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r15',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3521,7 +3521,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r16',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3591,7 +3591,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r17',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3661,7 +3661,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r18',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3731,7 +3731,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r19',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3801,7 +3801,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r20',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3871,7 +3871,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r21',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -3941,7 +3941,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r22',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4011,7 +4011,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r23',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4081,7 +4081,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r24',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4151,7 +4151,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r25',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4221,7 +4221,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r26',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4291,7 +4291,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r27',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4361,7 +4361,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r28',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4431,7 +4431,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r29',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4501,7 +4501,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r30',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4571,7 +4571,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 'r31',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4641,7 +4641,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's01',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4711,7 +4711,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's02',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4781,7 +4781,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's03',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4851,7 +4851,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's04',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4921,7 +4921,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's05',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -4991,7 +4991,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's06',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5061,7 +5061,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's07',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5131,7 +5131,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's08',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5201,7 +5201,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's09',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5271,7 +5271,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's10',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5341,7 +5341,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's11',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5411,7 +5411,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's12',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5481,7 +5481,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's13',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5551,7 +5551,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's14',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5621,7 +5621,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's15',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5691,7 +5691,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's16',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5761,7 +5761,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's17',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5831,7 +5831,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's18',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5901,7 +5901,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's19',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -5971,7 +5971,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's20',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6041,7 +6041,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's21',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6111,7 +6111,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's22',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6181,7 +6181,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's23',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6251,7 +6251,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's24',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6321,7 +6321,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's25',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6391,7 +6391,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's26',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6461,7 +6461,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's27',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6531,7 +6531,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's28',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6601,7 +6601,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's29',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6671,7 +6671,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's30',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
@@ -6741,7 +6741,7 @@ function cehs_ts_monthly_field_default_fields() {
       'label' => 's31',
       'required' => 0,
       'settings' => array(
-        'max' => '24',
+        'max' => '8',
         'min' => '0',
         'prefix' => '',
         'suffix' => '',
